@@ -9,4 +9,4 @@ spec:
     app: my-javaapp
   ports:
     - port: 80
-      targetPort: 8081
+      targetPort: 8080
